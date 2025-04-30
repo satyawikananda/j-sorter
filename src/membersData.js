@@ -1525,7 +1525,7 @@ export const members = [
     picture: '/assets/member/aurhel_alana.webp',
     generation: 12,
     graduated: false,
-    trainee: true,
+    trainee: false,
   },
   {
     name: 'Catherina Vallencia',
@@ -1539,7 +1539,7 @@ export const members = [
     picture: '/assets/member/fritzy_rosmerian.webp',
     generation: 12,
     graduated: false,
-    trainee: true,
+    trainee: false,
   },
   {
     name: 'Hillary Abigail',
