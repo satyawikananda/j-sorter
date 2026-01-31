@@ -1364,7 +1364,7 @@ export const members = [
     name: 'Indira Seruni',
     picture: '/assets/member/indira_seruni.webp',
     generation: 10,
-    graduated: false,
+    graduated: true,
     trainee: false,
   },
   {
@@ -1525,7 +1525,7 @@ export const members = [
     picture: '/assets/member/aurhel_alana.webp',
     generation: 12,
     graduated: false,
-    trainee: true,
+    trainee: false,
   },
   {
     name: 'Catherina Vallencia',
@@ -1539,7 +1539,7 @@ export const members = [
     picture: '/assets/member/fritzy_rosmerian.webp',
     generation: 12,
     graduated: false,
-    trainee: true,
+    trainee: false,
   },
   {
     name: 'Hillary Abigail',
@@ -1559,8 +1559,8 @@ export const members = [
     name: 'Letycia Moreen',
     picture: '/assets/member/letycia_moreen.webp',
     generation: 12,
-    graduated: false,
-    trainee: true,
+    graduated: true,
+    trainee: false,
   },
   {
     name: 'Michelle Levia',
@@ -1594,7 +1594,7 @@ export const members = [
     name: 'Regina Wilian',
     picture: '/assets/member/regina_wilian.webp',
     generation: 12,
-    graduated: false,
+    graduated: true,
     trainee: true,
   },
   {
